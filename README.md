@@ -10,9 +10,12 @@
 
 ![alt text](https://github.com/KristijanAt/SI_Lab2_115008/blob/master/control_flow_graph.png?raw=true)
 
+### Цикломатска комплексност
+
+Цикломатската комплексност на овој код е 7, истата ја добив преку формулата E-N+2 , каде што E е бројот на рабови,а N e бројот на јазли. Во случајoв N=25, E=30 па цикломатската комплексност изнесува 7.
+
 ### Тест случаи според критериумот  Every branch
 function test1
-
 
 ### Тест случаи според критериумот Multiple condtition
 function test2
