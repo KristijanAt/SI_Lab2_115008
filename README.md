@@ -8,7 +8,7 @@
 
 ###  Control Flow Graph
 
-Фотографија од control flow graph-ot 
+![alt text](https://github.com/KristijanAt/SI_Lab2_115008/blob/master/control_flow_graph.png?raw=true)
 
 ### Тест случаи според критериумот  Every branch
 function test1
